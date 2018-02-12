@@ -1,5 +1,5 @@
 <?php
-require_once("./vendor/dompdf/dompdf/src/Autoloader.php");
+//require_once("./vendor/dompdf/dompdf/src/Autoloader.php");
 use Dompdf\Dompdf;
 use Mpdf\Mpdf;
 class PdfGenerator
